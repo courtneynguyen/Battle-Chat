@@ -1,0 +1,23 @@
+{
+  "name": "Battle-Chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/courtneynguyen/Battle-Chat.git"
+  },
+  "keywords": [
+    "hipchat",
+    "xmpp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/courtneynguyen/Battle-Chat/issues"
+  },
+  "homepage": "https://github.com/courtneynguyen/Battle-Chat"
+}
