@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/courtneynguyen/Battle-Chat/issues"
   },
-  "homepage": "https://github.com/courtneynguyen/Battle-Chat"
+  "homepage": "https://github.com/courtneynguyen/Battle-Chat",
+  "dependencies": {
+    "express": "^4.12.3",
+    "lodash": "^3.6.0",
+    "oauth": "^0.9.12",
+    "request": "^2.54.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.8.0"
+  }
 }
